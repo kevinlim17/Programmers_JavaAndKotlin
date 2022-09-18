@@ -3,6 +3,7 @@ package LevelTwo;
 import java.util.LinkedList;
 import java.util.Queue;
 
+// Lv.2 [1차] 캐시
 public class Cache {
     private static int solution(int cacheSize, String[] cities){
         int answer = 0;
